@@ -40,3 +40,9 @@ def post_edit(request, pk):
     else:
         form = PostForm(instance=post)
     return render(request, 'blog/post_edit.html', {'form': form})
+
+def indexDemo(request):
+    return render(request, 'blog/indexDemo.html', {})
+
+def indexDemoDemo(request):
+    return render(request, 'blog/demo/indexDemoDemo.html', {})
