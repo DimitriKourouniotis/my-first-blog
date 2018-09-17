@@ -1,0 +1,725 @@
+spa,importer1,importer2,flow1,flow2
+1,"Reason Homeless Substance Abuse","Reason Homeless Job",44.42,54.61
+1,"Reason Homeless Substance Abuse","Reason Homeless Eviction",23.26,26.5
+1,"Reason Homeless Substance Abuse","History of Physical Abuse",8.19,4.36
+1,"Reason Homeless Domestic Violence","Reason Homeless No Family",0.58,0
+1,"Reason Homeless Domestic Violence","History of Alcohol Abuse",26.82,29.64
+1,"Reason Homeless Breakup","Reason Homeless No Family",2.03,3.91
+1,"Reason Homeless Job","Reason Homeless Eviction",20.68,20.88
+1,"Reason Homeless Job","History of Physical Illness",47.18,41
+1,"Reason Homeless Job","Reason Homeless No Family",0.85,2.55
+1,"Reason Homeless Job","History of Physical Abuse",23.59,13.21
+1,"Reason Homeless Job","Reason Homeless Death in Family",14.85,18.27
+1,"Reason Homeless Job","Reason Homeless Foster Care",4.59,1.1
+1,"Reason Homeless Eviction","History of Physical Illness",0.91,2.38
+1,"Reason Homeless Eviction","History of Physical Abuse",52.57,94.28
+1,"Reason Homeless Eviction","Reason Homeless Foster Care",2.43,8.92
+1,"History of Physical Illness","History of Physical Abuse",6.02,4.54
+1,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",22.71,26.88
+1,"Reason Homeless Jail Prison","Reason Homeless Eviction",41.78,58.42
+1,"Reason Homeless Jail Prison","History of Physical Abuse",9.33,4.11
+1,"Reason Homeless Jail Prison","Reason Homeless Foster Care",1.19,2.75
+1,"Reason Homeless No Family","Reason Homeless Substance Abuse",0,9.53
+1,"Reason Homeless No Family","Reason Homeless Eviction",0.42,2.99
+1,"Reason Homeless No Family","History of Physical Illness",0,26.91
+1,"Reason Homeless No Family","History of Physical Abuse",2.38,8.98
+1,"Reason Homeless No Family","History of Alcohol Abuse",36.79,33.7
+1,"History of PTSD","History of Alcohol Abuse",8.52,23.61
+1,"History of Physical Abuse","Reason Homeless Breakup",1.3,0.14
+1,"History of Physical Abuse","Reason Homeless Foster Care",2.42,2.6
+1,"History of Physical Abuse","History of PTSD",6.12,6.6
+1,"Reason Homeless Death in Family","Reason Homeless No Family",1.91,1.91
+1,"Reason Homeless Death in Family","History of Physical Abuse",0.27,1.2
+1,"Reason Homeless Foster Care","Reason Homeless No Family",8.38,2.43
+1,"Reason Homeless Unihabitable Housing","History of Physical Illness",24.71,8.97
+1,"History of Alcohol Abuse","Reason Homeless Substance Abuse",54.41,30.31
+1,"History of Alcohol Abuse","Reason Homeless Breakup",46.56,30.78
+1,"History of Alcohol Abuse","Reason Homeless Job",181.94,105.42
+1,"History of Alcohol Abuse","Reason Homeless Eviction",74.52,135.77
+1,"History of Alcohol Abuse","History of Physical Illness",21.23,43.93
+1,"History of Alcohol Abuse","Reason Homeless Jail Prison",43,70.59
+1,"History of Alcohol Abuse","Reason Homeless No Family",42.52,39.99
+1,"History of Alcohol Abuse","History of Physical Abuse",99.47,73.86
+1,"History of Alcohol Abuse","Reason Homeless Death in Family",29.35,15.06
+1,"History of Alcohol Abuse","Reason Homeless Foster Care",41.56,8.65
+1,"History of Alcohol Abuse","History of PTSD",32.1,32.1
+1,"History Drug Alcohol","Reason Homeless Substance Abuse",2.09,8
+1,"History Drug Alcohol","Reason Homeless Breakup",12,0.59
+1,"History Drug Alcohol","Reason Homeless Job",43,43.77
+1,"History Drug Alcohol","Reason Homeless Eviction",27,42
+1,"History Drug Alcohol","History of Physical Illness",6.4,7.14
+1,"History Drug Alcohol","Reason Homeless Jail Prison",1.21,4.05
+1,"History Drug Alcohol","Reason Homeless No Family",10.5,9.19
+1,"History Drug Alcohol","History of Physical Abuse",0.65,3.42
+1,"History Drug Alcohol","Reason Homeless Foster Care",1.32,0.29
+1,"History Drug Alcohol","History of Alcohol Abuse",152,240.95
+2,"History of Severe Depression","History of Physical Illness",33.07,40.34
+2,"History of Severe Depression","History of Physical Abuse",12.2,18.95
+2,"Reason Homeless Substance Abuse","Reason Homeless Job",108.39,95.59
+2,"Reason Homeless Substance Abuse","Reason Homeless Eviction",83.11,47.14
+2,"Reason Homeless Substance Abuse","History of Physical Illness",1.77,3.33
+2,"Reason Homeless Substance Abuse","Reason Homeless No Family",0.42,1.31
+2,"Reason Homeless Substance Abuse","History of Physical Abuse",15.75,3.71
+2,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",2.18,1.8
+2,"Reason Homeless Substance Abuse","Reason Homeless Foster Care",2.56,2.17
+2,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",0.34,1.26
+2,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",1.65,3.97
+2,"Reason Homeless Domestic Violence","Reason Homeless Job",17.75,0
+2,"Reason Homeless Domestic Violence","Reason Homeless No Family",4.504288,3.65
+2,"Reason Homeless Domestic Violence","History of Alcohol Abuse",33.42,36.1
+2,"Reason Homeless Breakup","Reason Homeless No Family",3.7,2.9
+2,"Reason Homeless Job","History of Severe Depression",11.83,4.49
+2,"Reason Homeless Job","Reason Homeless Breakup",17.77,1.29
+2,"Reason Homeless Job","Reason Homeless Eviction",86.92,89.99
+2,"Reason Homeless Job","History of Physical Illness",79.26,67.16
+2,"Reason Homeless Job","Reason Homeless No Family",18.09,18.62
+2,"Reason Homeless Job","History of Physical Abuse",46.03,11.17
+2,"Reason Homeless Job","Reason Homeless Death in Family",22.81,42.26
+2,"Reason Homeless Job","Reason Homeless Foster Care",9.07,2.85
+2,"Reason Homeless Job","Reason Homeless Unihabitable Housing",63.55,76
+2,"Reason Homeless Job","History of PTSD",27.67,21.19
+2,"Reason Homeless Eviction","History of Physical Illness",4.15,6.4
+2,"Reason Homeless Eviction","Reason Homeless No Family",13.35,23.23
+2,"Reason Homeless Eviction","History of Physical Abuse",80.59,162.57
+2,"Reason Homeless Eviction","Reason Homeless Foster Care",3.46,14.79
+2,"History of Physical Illness","History of Physical Abuse",4.84,8.14
+2,"History of Physical Illness","Reason Homeless Foster Care",0.09,0.31
+2,"Reason Homeless Jail Prison","History of Severe Depression",0.05,0.00008
+2,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",42.21,32.72
+2,"Reason Homeless Jail Prison","Reason Homeless Breakup",0.2,0
+2,"Reason Homeless Jail Prison","Reason Homeless Job",11.05,7.29
+2,"Reason Homeless Jail Prison","Reason Homeless Eviction",64.72,95.67
+2,"Reason Homeless Jail Prison","History of Physical Illness",0.8,2.01
+2,"Reason Homeless Jail Prison","Reason Homeless No Family",1.08,1.6
+2,"Reason Homeless Jail Prison","History of Physical Abuse",14.87,9.02
+2,"Reason Homeless Jail Prison","Reason Homeless Foster Care",1.31,0.8
+2,"Reason Homeless No Family","Reason Homeless Substance Abuse",3.09,16.49
+2,"Reason Homeless No Family","Reason Homeless Job",40.8,2.54
+2,"Reason Homeless No Family","Reason Homeless Eviction",5.53,5.17
+2,"Reason Homeless No Family","History of Physical Illness",0.21,0.15
+2,"Reason Homeless No Family","Reason Homeless Jail Prison",0.4,4.82
+2,"Reason Homeless No Family","Reason Homeless No Family",2.75,0.29
+2,"Reason Homeless No Family","History of Physical Abuse",2.41,1.92
+2,"Reason Homeless No Family","Reason Homeless Death in Family",4.03,2.01
+2,"Reason Homeless No Family","Reason Homeless Foster Care",0.79,0.1
+2,"Reason Homeless No Family","History of Alcohol Abuse",45.32,62.43
+2,"History of Physical Abuse","Reason Homeless Breakup",4.61,0.15
+2,"History of Physical Abuse","Reason Homeless No Family",0.34,1.91
+2,"History of Physical Abuse","Reason Homeless Foster Care",1.51,4.88
+2,"History of Physical Abuse","History of PTSD",11.23,7.7
+2,"Reason Homeless Death in Family","Reason Homeless Eviction",0.67,1.09
+2,"Reason Homeless Death in Family","Reason Homeless No Family",1.43,2.44
+2,"Reason Homeless Death in Family","Reason Homeless Foster Care",0.44,0.33
+2,"Reason Homeless Foster Care","Reason Homeless No Family",6.12,6.93
+2,"Reason Homeless Unihabitable Housing","History of Physical Illness",18.87,5.36
+2,"History of Alcohol Abuse","History of Severe Depression",6.41,5.72
+2,"History of Alcohol Abuse","Reason Homeless Substance Abuse",72.12,28.13
+2,"History of Alcohol Abuse","Reason Homeless Breakup",66.21,23.98
+2,"History of Alcohol Abuse","Reason Homeless Job",227.34,74.73
+2,"History of Alcohol Abuse","Reason Homeless Eviction",100.77,0
+2,"History of Alcohol Abuse","History of Physical Illness",22.54,32.92
+2,"History of Alcohol Abuse","Reason Homeless Jail Prison",72.19,63.83
+2,"History of Alcohol Abuse","Reason Homeless No Family",56.12,43.36
+2,"History of Alcohol Abuse","History of Physical Abuse",100.77,39.21
+2,"History of Alcohol Abuse","Reason Homeless Death in Family",42.14,16.69
+2,"History of Alcohol Abuse","Reason Homeless Foster Care",43.39,22.08
+2,"History of Alcohol Abuse","History of PTSD",31.9,28.66
+2,"History Drug Alcohol","Reason Homeless Substance Abuse",3.19,13.63
+2,"History Drug Alcohol","Reason Homeless Domestic Violence",42,8
+2,"History Drug Alcohol","Reason Homeless Breakup",11.43,1.51
+2,"History Drug Alcohol","Reason Homeless Job",69.57,36.68
+2,"History Drug Alcohol","Reason Homeless Eviction",40,50
+2,"History Drug Alcohol","History of Physical Illness",5.02,7.44
+2,"History Drug Alcohol","Reason Homeless Jail Prison",1.6,8.44
+2,"History Drug Alcohol","Reason Homeless No Family",15.24,13.82
+2,"History Drug Alcohol","History of Physical Abuse",0,5.95
+2,"History Drug Alcohol","Reason Homeless Death in Family",3.07,11.73
+2,"History Drug Alcohol","Reason Homeless Foster Care",0.29,0.64
+2,"History Drug Alcohol","History of Alcohol Abuse",106.41,338.63
+3,"History of Severe Depression","History of Physical Illness",32.09,35.08
+3,"History of Severe Depression","Reason Homeless No Family",19.68,35.03
+3,"History of Severe Depression","History of Physical Abuse",21.77,15.43
+3,"Reason Homeless Substance Abuse","Reason Homeless Job",89.35,88.27
+3,"Reason Homeless Substance Abuse","Reason Homeless Eviction",39.1,46.32
+3,"Reason Homeless Substance Abuse","History of Physical Illness",1.37,3.95
+3,"Reason Homeless Substance Abuse","Reason Homeless No Family",7.44,2.98
+3,"Reason Homeless Substance Abuse","History of Physical Abuse",24.44,2.55
+3,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",4.66,3.86
+3,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",0.27,5.86
+3,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",2.57,3.66
+3,"Reason Homeless Domestic Violence","Reason Homeless Job",14.7,10.11
+3,"Reason Homeless Domestic Violence","Reason Homeless No Family",8.431608,4.78
+3,"Reason Homeless Domestic Violence","Reason Homeless Death in Family",0.32,0.39
+3,"Reason Homeless Domestic Violence","History of Alcohol Abuse",32.47,25.56
+3,"Reason Homeless Breakup","Reason Homeless No Family",4.83,3.04
+3,"Reason Homeless Job","History of Severe Depression",23.95,5.55
+3,"Reason Homeless Job","Reason Homeless Breakup",19.47,0.65
+3,"Reason Homeless Job","Reason Homeless Eviction",84.57,70.03
+3,"Reason Homeless Job","History of Physical Illness",76.87,34.99
+3,"Reason Homeless Job","Reason Homeless No Family",59.07,20.13
+3,"Reason Homeless Job","History of Physical Abuse",60.62,6.56
+3,"Reason Homeless Job","Reason Homeless Death in Family",66.13,30.62
+3,"Reason Homeless Job","Reason Homeless Unihabitable Housing",22.02,42.53
+3,"Reason Homeless Eviction","History of Severe Depression",95.69,69.33
+3,"Reason Homeless Eviction","History of Physical Illness",15.42,12.39
+3,"Reason Homeless Eviction","Reason Homeless No Family",12.10865,32.74
+3,"Reason Homeless Eviction","History of Physical Abuse",80.07,50.79
+3,"History of Physical Illness","Reason Homeless No Family",8.88,6.99
+3,"History of Physical Illness","History of Physical Abuse",16.36,3.64
+3,"Reason Homeless Jail Prison","History of Severe Depression",0.32,0.004824
+3,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",29.17,45.64
+3,"Reason Homeless Jail Prison","Reason Homeless Breakup",0.004422,0.01
+3,"Reason Homeless Jail Prison","Reason Homeless Job",7.23,7.89
+3,"Reason Homeless Jail Prison","Reason Homeless Eviction",54.07,45.19
+3,"Reason Homeless Jail Prison","History of Physical Illness",0.8,4.35
+3,"Reason Homeless Jail Prison","Reason Homeless No Family",2.2,5.19
+3,"Reason Homeless Jail Prison","History of Physical Abuse",18.33,3.7
+3,"Reason Homeless No Family","Reason Homeless Substance Abuse",1.8,9.23
+3,"Reason Homeless No Family","Reason Homeless Job",33.12,23.91
+3,"Reason Homeless No Family","Reason Homeless Eviction",9,17.65
+3,"Reason Homeless No Family","History of Physical Illness",0.43,0.32
+3,"Reason Homeless No Family","Reason Homeless Jail Prison",0.06,1.56
+3,"Reason Homeless No Family","Reason Homeless No Family",9.98,8.98
+3,"Reason Homeless No Family","History of Physical Abuse",8.66,3.36
+3,"Reason Homeless No Family","Reason Homeless Death in Family",2.94,1.55
+3,"Reason Homeless No Family","History of Alcohol Abuse",40.34,48.13
+3,"History of Physical Abuse","Reason Homeless Breakup",5.92,0.23
+3,"History of Physical Abuse","Reason Homeless No Family",14.97,19.94
+3,"Reason Homeless Death in Family","Reason Homeless Eviction",8.22,1.38
+3,"Reason Homeless Death in Family","History of Physical Illness",1.58,0.8
+3,"Reason Homeless Death in Family","Reason Homeless No Family",5.73,2.62
+3,"Reason Homeless Death in Family","History of Physical Abuse",0.91,0.73
+3,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",40.44,33.42
+3,"Reason Homeless Unihabitable Housing","History of Physical Illness",19.73,6.63
+3,"History of Alcohol Abuse","History of Severe Depression",6.95,2.88
+3,"History of Alcohol Abuse","Reason Homeless Substance Abuse",54.69,28.16
+3,"History of Alcohol Abuse","Reason Homeless Breakup",57.47,24.61
+3,"History of Alcohol Abuse","Reason Homeless Job",283.97,75.78
+3,"History of Alcohol Abuse","Reason Homeless Eviction",118.36,83.31
+3,"History of Alcohol Abuse","History of Physical Illness",16.45,26.4
+3,"History of Alcohol Abuse","Reason Homeless Jail Prison",125.91,44.73
+3,"History of Alcohol Abuse","Reason Homeless No Family",120.11,87.39
+3,"History of Alcohol Abuse","History of Physical Abuse",77.9,38.64
+3,"History of Alcohol Abuse","Reason Homeless Death in Family",52,13.65
+3,"History Drug Alcohol","Reason Homeless Substance Abuse",6.99,52.32
+3,"History Drug Alcohol","Reason Homeless Domestic Violence",52,9
+3,"History Drug Alcohol","Reason Homeless Breakup",12.56,1.66
+3,"History Drug Alcohol","Reason Homeless Job",64.11,141.08
+3,"History Drug Alcohol","Reason Homeless Eviction",44.54,43.91
+3,"History Drug Alcohol","History of Physical Illness",10.56,14.61
+3,"History Drug Alcohol","Reason Homeless Jail Prison",6.3,32.68
+3,"History Drug Alcohol","Reason Homeless No Family",31.61,30.46
+3,"History Drug Alcohol","History of Physical Abuse",0,6.82
+3,"History Drug Alcohol","Reason Homeless Death in Family",4.18,18.26
+3,"History Drug Alcohol","History of Alcohol Abuse",150.25,520.9
+4,"Developmental Disability","Reason Homeless Substance Abuse",2.11,10.63
+4,"Developmental Disability","Reason Homeless Job",18.48,37.94
+4,"Developmental Disability","Reason Homeless Eviction",5.39,1.62
+4,"Developmental Disability","Reason Homeless Jail Prison",0.000804,0
+4,"Developmental Disability","Reason Homeless No Family",1.42,0.71
+4,"Developmental Disability","Reason Homeless Death in Family",3.46,1.98
+4,"Developmental Disability","History of Alcohol Abuse",22.05,9.13
+4,"History of Severe Depression","History of Physical Illness",19.64,45.56
+4,"History of Severe Depression","Reason Homeless No Family",22.07,28.72
+4,"History of Severe Depression","History of Physical Abuse",17.25,13.79
+4,"History of Severe Depression","History of PTSD",4.89,16.93
+4,"Reason Homeless Substance Abuse","Reason Homeless Job",84.39,78.06
+4,"Reason Homeless Substance Abuse","Reason Homeless Eviction",35.08,66.62
+4,"Reason Homeless Substance Abuse","History of Physical Illness",3.95,6.58
+4,"Reason Homeless Substance Abuse","Reason Homeless No Family",8.07,2.83
+4,"Reason Homeless Substance Abuse","History of Physical Abuse",17.96,1.18
+4,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",1.4,4.95
+4,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",0.76,6
+4,"Reason Homeless Domestic Violence","Developmental Disability",1.62,1.62
+4,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",2.74,5
+4,"Reason Homeless Domestic Violence","Reason Homeless Job",10.55,9.66
+4,"Reason Homeless Domestic Violence","Reason Homeless No Family",3.36,2.24
+4,"Reason Homeless Domestic Violence","History of Alcohol Abuse",25.84,19.85
+4,"Reason Homeless Breakup","Reason Homeless No Family",6.73,1.9
+4,"Reason Homeless Job","History of Severe Depression",21.32,3.01
+4,"Reason Homeless Job","Reason Homeless Breakup",12.12,0.55
+4,"Reason Homeless Job","Reason Homeless Eviction",72.2,57.97
+4,"Reason Homeless Job","History of Physical Illness",50.7,34.21
+4,"Reason Homeless Job","Reason Homeless No Family",39.24,12.84
+4,"Reason Homeless Job","History of Physical Abuse",31.51,2.45
+4,"Reason Homeless Job","Reason Homeless Death in Family",69.66,31.34
+4,"Reason Homeless Job","Reason Homeless Unihabitable Housing",22.48,36.28
+4,"Reason Homeless Job","History of PTSD",25.72,9.61
+4,"Reason Homeless Eviction","History of Severe Depression",91.31,67.7
+4,"Reason Homeless Eviction","History of Physical Illness",20.31,23.24
+4,"Reason Homeless Eviction","Reason Homeless No Family",13.74,38.18
+4,"Reason Homeless Eviction","History of Physical Abuse",82.1,34.29
+4,"Reason Homeless Eviction","History of PTSD",0.0043208,0.11
+4,"History of Physical Illness","Reason Homeless No Family",4.31,3.21
+4,"History of Physical Illness","History of Physical Abuse",17.66,3.5
+4,"History of Physical Illness","History of PTSD",13.15,3.1
+4,"Reason Homeless Jail Prison","History of Severe Depression",0.28,0.53
+4,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",64.96,51.38
+4,"Reason Homeless Jail Prison","Reason Homeless Breakup",0,0.004422
+4,"Reason Homeless Jail Prison","Reason Homeless Job",7.21,6.96
+4,"Reason Homeless Jail Prison","Reason Homeless Eviction",120.35,156.82
+4,"Reason Homeless Jail Prison","History of Physical Illness",1.93,5.85
+4,"Reason Homeless Jail Prison","Reason Homeless No Family",2.67,5.75
+4,"Reason Homeless Jail Prison","History of Physical Abuse",30.87,1.92
+4,"Reason Homeless No Family","Developmental Disability",2.56,0
+4,"Reason Homeless No Family","Reason Homeless Substance Abuse",0.54,7.09
+4,"Reason Homeless No Family","Reason Homeless Job",16.97,26.63
+4,"Reason Homeless No Family","Reason Homeless Eviction",11.84,5.32
+4,"Reason Homeless No Family","History of Physical Illness",1.39,0.13
+4,"Reason Homeless No Family","Reason Homeless Jail Prison",0,2.58
+4,"Reason Homeless No Family","Reason Homeless No Family",13.5,9.35
+4,"Reason Homeless No Family","History of Physical Abuse",8.14,2.39
+4,"Reason Homeless No Family","History of Alcohol Abuse",28.45,32.23
+4,"History of Physical Abuse","Reason Homeless Breakup",4.99,0.24
+4,"History of Physical Abuse","Reason Homeless No Family",3.31,11.94
+4,"History of Physical Abuse","History of PTSD",7.45,7.9
+4,"Reason Homeless Death in Family","Reason Homeless Eviction",9.63,2.24
+4,"Reason Homeless Death in Family","History of Physical Illness",1.39,0.13
+4,"Reason Homeless Death in Family","Reason Homeless No Family",1.24,1.65
+4,"Reason Homeless Unihabitable Housing","History of Severe Depression",12.56,7.23
+4,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",34.45,32.58
+4,"Reason Homeless Unihabitable Housing","History of Physical Illness",24.09,14.86
+4,"History of Alcohol Abuse","History of Severe Depression",10.48,3.83
+4,"History of Alcohol Abuse","Reason Homeless Substance Abuse",72.24,37.93
+4,"History of Alcohol Abuse","Reason Homeless Breakup",41.86,24.21
+4,"History of Alcohol Abuse","Reason Homeless Job",173.54,72.79
+4,"History of Alcohol Abuse","Reason Homeless Eviction",112.11,79.78
+4,"History of Alcohol Abuse","History of Physical Illness",14.26,32.2
+4,"History of Alcohol Abuse","Reason Homeless Jail Prison",121.54,43.14
+4,"History of Alcohol Abuse","Reason Homeless No Family",96.86,54.03
+4,"History of Alcohol Abuse","History of Physical Abuse",86.08,20.66
+4,"History of Alcohol Abuse","Reason Homeless Death in Family",45.94,15.39
+4,"History of Alcohol Abuse","Reason Homeless Unihabitable Housing",18.84,9.89
+4,"History of Alcohol Abuse","History of PTSD",22.74,29.8
+4,"History Drug Alcohol","Developmental Disability",1.62,5.17
+4,"History Drug Alcohol","Reason Homeless Substance Abuse",6.4,23.23
+4,"History Drug Alcohol","Reason Homeless Domestic Violence",45,7
+4,"History Drug Alcohol","Reason Homeless Breakup",10.62,4.24
+4,"History Drug Alcohol","Reason Homeless Job",49.06,51.76
+4,"History Drug Alcohol","Reason Homeless Eviction",36.47,28.97
+4,"History Drug Alcohol","History of Physical Illness",8.8,13.98
+4,"History Drug Alcohol","Reason Homeless Jail Prison",10.61,22.35
+4,"History Drug Alcohol","Reason Homeless No Family",28.1,26.42
+4,"History Drug Alcohol","Reason Homeless Death in Family",2.88,17.5
+4,"History Drug Alcohol","Reason Homeless Unihabitable Housing",14.84,3.42
+4,"History Drug Alcohol","History of PTSD",0.52,0.81
+4,"History Drug Alcohol","History of Alcohol Abuse",111.74,420.28
+5,"Developmental Disability","Reason Homeless Substance Abuse",4.21,10.86
+5,"Developmental Disability","Reason Homeless Job",7.59,31.46
+5,"Developmental Disability","Reason Homeless Eviction",4.72,1.36
+5,"Developmental Disability","Reason Homeless No Family",5.58,10.25
+5,"Developmental Disability","Reason Homeless Death in Family",1.65,2.45
+5,"Developmental Disability","History of Alcohol Abuse",40.4,19.82
+5,"History of Severe Depression","Reason Homeless No Family",26.47,44.01
+5,"History of Severe Depression","History of Physical Abuse",16.16,9.1
+5,"History of Severe Depression","History of PTSD",4.49,19.9
+5,"Reason Homeless Substance Abuse","Reason Homeless Breakup",0,1.6
+5,"Reason Homeless Substance Abuse","Reason Homeless Job",59.59,67.56
+5,"Reason Homeless Substance Abuse","Reason Homeless Eviction",34.31,49.93
+5,"Reason Homeless Substance Abuse","Reason Homeless No Family",24.51,10.98
+5,"Reason Homeless Substance Abuse","History of Physical Abuse",21.53,1.82
+5,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",4.01,7.29
+5,"Reason Homeless Substance Abuse","Reason Homeless Foster Care",8.73,2.1
+5,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",2.35,5.39
+5,"Reason Homeless Substance Abuse","History of PTSD",0.05,2.64
+5,"Reason Homeless Domestic Violence","Developmental Disability",9.95,1.28
+5,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",2.94,5.74
+5,"Reason Homeless Domestic Violence","Reason Homeless No Family",8.87,4.57
+5,"Reason Homeless Domestic Violence","History of Alcohol Abuse",35.8,20.88
+5,"Reason Homeless Breakup","Reason Homeless No Family",8.49,5.55
+5,"Reason Homeless Job","Reason Homeless Eviction",66.76,65.05
+5,"Reason Homeless Job","Reason Homeless No Family",40.44,50.91
+5,"Reason Homeless Job","History of Physical Abuse",37.09,8.82
+5,"Reason Homeless Job","Reason Homeless Death in Family",67.34,29.1
+5,"Reason Homeless Job","Reason Homeless Foster Care",6.59,2.14
+5,"Reason Homeless Job","Reason Homeless Unihabitable Housing",23.58,46.22
+5,"Reason Homeless Job","History of PTSD",16.12,12.24
+5,"Reason Homeless Eviction","History of Severe Depression",138.94,81.49
+5,"Reason Homeless Eviction","Reason Homeless No Family",50.64,68.12
+5,"Reason Homeless Eviction","History of Physical Abuse",125.79,47.92
+5,"Reason Homeless Eviction","Reason Homeless Foster Care",15.89,30.48
+5,"Reason Homeless Eviction","History of PTSD",0.5,0.27
+5,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",39.24,38.87
+5,"Reason Homeless Jail Prison","Reason Homeless Job",9.61,4.29
+5,"Reason Homeless Jail Prison","Reason Homeless Eviction",59.89,71.78
+5,"Reason Homeless Jail Prison","Reason Homeless No Family",0.27,4.63
+5,"Reason Homeless Jail Prison","History of Physical Abuse",44.54,2.18
+5,"Reason Homeless Jail Prison","Reason Homeless Foster Care",4.32,2.59
+5,"Reason Homeless Jail Prison","Reason Homeless Unihabitable Housing",0.92,1.69
+5,"Reason Homeless Jail Prison","History of PTSD",0.72,0.47
+5,"Reason Homeless No Family","Developmental Disability",2.97,2.55
+5,"Reason Homeless No Family","Reason Homeless Substance Abuse",3.03,8.93
+5,"Reason Homeless No Family","Reason Homeless Job",11.51,10.16
+5,"Reason Homeless No Family","Reason Homeless Eviction",16.87,5.9
+5,"Reason Homeless No Family","Reason Homeless No Family",13.61,4.22
+5,"Reason Homeless No Family","History of Physical Abuse",29.47,3.08
+5,"Reason Homeless No Family","Reason Homeless Death in Family",2.32,1.56
+5,"Reason Homeless No Family","History of PTSD",11.38519,9.270229
+5,"Reason Homeless No Family","History of Alcohol Abuse",67.76,46.33
+5,"History of Physical Abuse","Reason Homeless Breakup",10.18,1.03
+5,"History of Physical Abuse","Reason Homeless No Family",7.02,10.28
+5,"History of Physical Abuse","Reason Homeless Foster Care",3.29,6.46
+5,"History of Physical Abuse","History of PTSD",3.93,8.57
+5,"Reason Homeless Death in Family","Reason Homeless Eviction",12.32,7.9
+5,"Reason Homeless Death in Family","Reason Homeless No Family",25.73,5.24
+5,"Reason Homeless Death in Family","History of Physical Abuse",5.06,0.07
+5,"Reason Homeless Death in Family","Reason Homeless Foster Care",7.15,0.27
+5,"Reason Homeless Death in Family","History of PTSD",1.6,0
+5,"Reason Homeless Foster Care","Reason Homeless No Family",11.9,8.97
+5,"Reason Homeless Foster Care","History of PTSD",0,0.01
+5,"Reason Homeless Unihabitable Housing","History of Severe Depression",19.47,7.47
+5,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",41.7,39.73
+5,"Reason Homeless Unihabitable Housing","Reason Homeless No Family",31.24,11.03
+5,"Reason Homeless Unihabitable Housing","History of Physical Abuse",6.33,2.6
+5,"History of Alcohol Abuse","History of Severe Depression",8.29,18.24
+5,"History of Alcohol Abuse","Reason Homeless Substance Abuse",83.45,36.67
+5,"History of Alcohol Abuse","Reason Homeless Breakup",23.19,31.72
+5,"History of Alcohol Abuse","Reason Homeless Job",215.2,79.34
+5,"History of Alcohol Abuse","Reason Homeless Eviction",125.17,92.62
+5,"History of Alcohol Abuse","Reason Homeless Jail Prison",124.34,48.58
+5,"History of Alcohol Abuse","Reason Homeless No Family",106.49,96.17
+5,"History of Alcohol Abuse","History of Physical Abuse",114.02,27.61
+5,"History of Alcohol Abuse","Reason Homeless Death in Family",60.05,24
+5,"History of Alcohol Abuse","Reason Homeless Foster Care",40.68,14.69
+5,"History of Alcohol Abuse","Reason Homeless Unihabitable Housing",20.26,9.96
+5,"History of Alcohol Abuse","History of PTSD",23.12,32.51
+5,"History Drug Alcohol","Developmental Disability",5.97,3.57
+5,"History Drug Alcohol","History of Severe Depression",11.59,0.78
+5,"History Drug Alcohol","Reason Homeless Substance Abuse",10.94,10.94
+5,"History Drug Alcohol","Reason Homeless Domestic Violence",83.23,83.23
+5,"History Drug Alcohol","Reason Homeless Breakup",19.32,12.32
+5,"History Drug Alcohol","Reason Homeless Job",76.68,76.68
+5,"History Drug Alcohol","Reason Homeless Eviction",97.31,97.31
+5,"History Drug Alcohol","Reason Homeless Jail Prison",12.42,12.42
+5,"History Drug Alcohol","Reason Homeless No Family",97.64,97.42
+5,"History Drug Alcohol","History of Physical Abuse",4.83,4.83
+5,"History Drug Alcohol","Reason Homeless Death in Family",6.03,6.03
+5,"History Drug Alcohol","Reason Homeless Foster Care",0.24,2.21
+5,"History Drug Alcohol","Reason Homeless Unihabitable Housing",14.11,14.11
+5,"History Drug Alcohol","History of PTSD",6.26,6.26
+5,"History Drug Alcohol","History of Alcohol Abuse",153.95,467.03
+6,"Developmental Disability","Reason Homeless Substance Abuse",2.76,17.87
+6,"Developmental Disability","Reason Homeless Job",8.32,34.86
+6,"Developmental Disability","Reason Homeless Eviction",7.38,8.72
+6,"Developmental Disability","History of Physical Illness",6.4,4.61
+6,"Developmental Disability","Reason Homeless No Family",4.22,2.32
+6,"Developmental Disability","Reason Homeless Death in Family",1.92,2.69
+6,"Developmental Disability","History of Alcohol Abuse",26.09,44.31
+6,"History of Severe Depression","History of Physical Illness",9.63,25.24
+6,"History of Severe Depression","Reason Homeless No Family",12.78,14.97
+6,"History of Severe Depression","History of Physical Abuse",9.5,12.36
+6,"History of Severe Depression","History of PTSD",3.14,7.92
+6,"Reason Homeless Substance Abuse","History of Severe Depression",3.02,2.68
+6,"Reason Homeless Substance Abuse","Juvenile Detention Involvement",0,1.7
+6,"Reason Homeless Substance Abuse","Reason Homeless Job",57.81,54.79
+6,"Reason Homeless Substance Abuse","Reason Homeless Eviction",38.4,59.92
+6,"Reason Homeless Substance Abuse","History of Physical Illness",3.82,4.88
+6,"Reason Homeless Substance Abuse","Reason Homeless No Family",20.92,4.02
+6,"Reason Homeless Substance Abuse","History of Physical Abuse",22.54,7.49
+6,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",3.92,4.22
+6,"Reason Homeless Substance Abuse","Reason Homeless Foster Care",8.89,2.98
+6,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",0.83,6.57
+6,"Reason Homeless Domestic Violence","Developmental Disability",5.43,2.75
+6,"Reason Homeless Domestic Violence","History of Severe Depression",0.88,6.93
+6,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",4.21,7.93
+6,"Reason Homeless Domestic Violence","Reason Homeless Job",14.71,0
+6,"Reason Homeless Domestic Violence","History of Physical Illness",2.84,1.26
+6,"Reason Homeless Domestic Violence","Reason Homeless No Family",7.17,2.4
+6,"Reason Homeless Domestic Violence","History of Alcohol Abuse",35.72,17.63
+6,"Reason Homeless Job","History of Severe Depression",12.33,5.24
+6,"Reason Homeless Job","Juvenile Detention Involvement",0.25,1.86
+6,"Reason Homeless Job","Reason Homeless Eviction",60.03,64.68
+6,"Reason Homeless Job","History of Physical Illness",22.27,25.95
+6,"Reason Homeless Job","Reason Homeless No Family",22.91,17.06
+6,"Reason Homeless Job","History of Physical Abuse",37.76,11.57
+6,"Reason Homeless Job","Reason Homeless Death in Family",41.25,21.1
+6,"Reason Homeless Job","Reason Homeless Foster Care",6.91,2.17
+6,"Reason Homeless Job","Reason Homeless Unihabitable Housing",14.5,31.56
+6,"Reason Homeless Job","History of PTSD",17.37,10.41
+6,"Reason Homeless Eviction","History of Severe Depression",155.45,52.51
+6,"Reason Homeless Eviction","Juvenile Detention Involvement",17.49,32.58
+6,"Reason Homeless Eviction","History of Physical Illness",34.67,19.81
+6,"Reason Homeless Eviction","Reason Homeless No Family",9.26,27.94
+6,"Reason Homeless Eviction","History of Physical Abuse",92,90.14
+6,"Reason Homeless Eviction","Reason Homeless Foster Care",18.59,28.26
+6,"Reason Homeless Eviction","History of PTSD",1.82,1.02
+6,"History of Physical Illness","Reason Homeless No Family",4.19,0.59
+6,"History of Physical Illness","History of Physical Abuse",16.63,6
+6,"Reason Homeless Jail Prison","History of Severe Depression",3.38,2.28
+6,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",31.81,33.66
+6,"Reason Homeless Jail Prison","Juvenile Detention Involvement",0.08,2.5
+6,"Reason Homeless Jail Prison","Reason Homeless Job",7.26,6.13
+6,"Reason Homeless Jail Prison","Reason Homeless Eviction",58.24,39.04
+6,"Reason Homeless Jail Prison","History of Physical Illness",0,2.05
+6,"Reason Homeless Jail Prison","Reason Homeless No Family",0.82,0.13
+6,"Reason Homeless Jail Prison","History of Physical Abuse",30.37,2.59
+6,"Reason Homeless Jail Prison","Reason Homeless Foster Care",5.02,2.28
+6,"Reason Homeless Jail Prison","Reason Homeless Unihabitable Housing",0.77,0.7
+6,"Reason Homeless No Family","Developmental Disability",1.88,0.02
+6,"Reason Homeless No Family","Reason Homeless Substance Abuse",3.17,17.05
+6,"Reason Homeless No Family","Reason Homeless Job",6.22,7.84
+6,"Reason Homeless No Family","Reason Homeless Eviction",14.75,10
+6,"Reason Homeless No Family","History of Physical Illness",2.44,0.78
+6,"Reason Homeless No Family","Reason Homeless No Family",11.04,25.69
+6,"Reason Homeless No Family","History of Physical Abuse",8.5,2.16
+6,"Reason Homeless No Family","Reason Homeless Death in Family",4.26,0.72
+6,"Reason Homeless No Family","History of PTSD",1.94,1.92
+6,"Reason Homeless No Family","History of Alcohol Abuse",49.1,31.15
+6,"History of Physical Abuse","Juvenile Detention Involvement",0.91,5.4
+6,"History of Physical Abuse","Reason Homeless No Family",22.36,4
+6,"History of Physical Abuse","Reason Homeless Foster Care",3.75,5.39
+6,"History of Physical Abuse","History of PTSD",3.49,6.93
+6,"Reason Homeless Death in Family","Reason Homeless Eviction",7.4,6.79
+6,"Reason Homeless Death in Family","History of Physical Illness",2.13,2.04
+6,"Reason Homeless Death in Family","Reason Homeless No Family",9.34,6.9
+6,"Reason Homeless Death in Family","History of Physical Abuse",5.27,0.4
+6,"Reason Homeless Death in Family","Reason Homeless Foster Care",5.94,0.24
+6,"Reason Homeless Death in Family","History of PTSD",1.14,0
+6,"Reason Homeless Foster Care","Juvenile Detention Involvement",7.71,14.05
+6,"Reason Homeless Unihabitable Housing","History of Severe Depression",14.05,4.31
+6,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",52.04,34.33
+6,"Reason Homeless Unihabitable Housing","History of Physical Illness",34.81,8.26
+6,"Reason Homeless Unihabitable Housing","Reason Homeless No Family",0.37,0.84
+6,"Reason Homeless Unihabitable Housing","History of Physical Abuse",11.94,4.22
+6,"History of Alcohol Abuse","History of Severe Depression",5.95,8.36
+6,"History of Alcohol Abuse","Reason Homeless Substance Abuse",85.58,35.73
+6,"History of Alcohol Abuse","Juvenile Detention Involvement",47.8,13.16
+6,"History of Alcohol Abuse","Reason Homeless Job",231.56,67.65
+6,"History of Alcohol Abuse","Reason Homeless Eviction",131.67,100.39
+6,"History of Alcohol Abuse","History of Physical Illness",15.28,27.05
+6,"History of Alcohol Abuse","Reason Homeless Jail Prison",138.63,35.97
+6,"History of Alcohol Abuse","Reason Homeless No Family",54.03,69.24
+6,"History of Alcohol Abuse","History of Physical Abuse",120.66,34.16
+6,"History of Alcohol Abuse","Reason Homeless Death in Family",55.19,17.74
+6,"History of Alcohol Abuse","Reason Homeless Foster Care",42.85,14.73
+6,"History of Alcohol Abuse","Reason Homeless Unihabitable Housing",25.14,9.16
+6,"History of Alcohol Abuse","History of PTSD",28.05,26.08
+6,"History Drug Alcohol","Developmental Disability",9.31,5.49
+6,"History Drug Alcohol","History of Severe Depression",7.64,2.37
+6,"History Drug Alcohol","Reason Homeless Substance Abuse",13.77,26.39
+6,"History Drug Alcohol","Reason Homeless Domestic Violence",71.06,14.22
+6,"History Drug Alcohol","Juvenile Detention Involvement",0.61,2.69
+6,"History Drug Alcohol","Reason Homeless Job",66.26,45.35
+6,"History Drug Alcohol","Reason Homeless Eviction",94.24,96.36
+6,"History Drug Alcohol","History of Physical Illness",22.14,19.04
+6,"History Drug Alcohol","Reason Homeless Jail Prison",13.29,38.09
+6,"History Drug Alcohol","Reason Homeless No Family",88.46,53.63
+6,"History Drug Alcohol","History of Physical Abuse",3.62,7.37
+6,"History Drug Alcohol","Reason Homeless Death in Family",4.13,11.45
+6,"History Drug Alcohol","Reason Homeless Foster Care",3.32,5.01
+6,"History Drug Alcohol","Reason Homeless Unihabitable Housing",14.08,0.03
+6,"History Drug Alcohol","History of PTSD",12.31,0.25
+6,"History Drug Alcohol","History of Alcohol Abuse",169.96,422.18
+7,"Developmental Disability","Reason Homeless Substance Abuse",7.92,16.9
+7,"Developmental Disability","Reason Homeless Job",10.24,17.87
+7,"Developmental Disability","Reason Homeless Eviction",15.64,18.86
+7,"Developmental Disability","History of Physical Illness",14.03,4.04
+7,"Developmental Disability","Reason Homeless No Family",2.82,2.7
+7,"Developmental Disability","Reason Homeless Death in Family",2.42,5.87
+7,"Developmental Disability","History of Alcohol Abuse",34.42,63.03
+7,"History of Severe Depression","History of Physical Illness",23.17,29.78
+7,"History of Severe Depression","Reason Homeless No Family",29.5,32.44
+7,"History of Severe Depression","History of Physical Abuse",18.07,14.52
+7,"Reason Homeless Substance Abuse","History of Severe Depression",3.01,5.29
+7,"Reason Homeless Substance Abuse","Juvenile Detention Involvement",0.26,1.95
+7,"Reason Homeless Substance Abuse","Reason Homeless Job",70.38,79.9
+7,"Reason Homeless Substance Abuse","Reason Homeless Eviction",60.73,79.99
+7,"Reason Homeless Substance Abuse","History of Physical Illness",5.08,6.02
+7,"Reason Homeless Substance Abuse","Reason Homeless No Family",16.54,7.660831
+7,"Reason Homeless Substance Abuse","History of Physical Abuse",23.54,5.9
+7,"Reason Homeless Substance Abuse","Reason Homeless Death in Family",7.75,6.87
+7,"Reason Homeless Substance Abuse","Reason Homeless Foster Care",10.93,3.33
+7,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",1.21,5.74
+7,"Reason Homeless Domestic Violence","Developmental Disability",5.81,3.51
+7,"Reason Homeless Domestic Violence","History of Severe Depression",1.08,8.81
+7,"Reason Homeless Domestic Violence","Reason Homeless Substance Abuse",1.75,0.0078243
+7,"Reason Homeless Domestic Violence","Reason Homeless Job",7.15,0
+7,"Reason Homeless Domestic Violence","History of Physical Illness",2.94,3.07
+7,"Reason Homeless Domestic Violence","Reason Homeless No Family",7.64,1.81
+7,"Reason Homeless Domestic Violence","Reason Homeless Death in Family",0.27,0.3
+7,"Reason Homeless Domestic Violence","History of Alcohol Abuse",28.04,28.65
+7,"Reason Homeless Job","History of Severe Depression",13.87,10.92
+7,"Reason Homeless Job","Juvenile Detention Involvement",0.39,3.84
+7,"Reason Homeless Job","Reason Homeless Eviction",80.38,87.53
+7,"Reason Homeless Job","History of Physical Illness",28.04,29.36
+7,"Reason Homeless Job","Reason Homeless No Family",32.76,26.4
+7,"Reason Homeless Job","History of Physical Abuse",43.48,15.44
+7,"Reason Homeless Job","Reason Homeless Death in Family",41.41,25.41
+7,"Reason Homeless Job","Reason Homeless Foster Care",8.08,2.62
+7,"Reason Homeless Job","Reason Homeless Unihabitable Housing",21,39.72
+7,"Reason Homeless Eviction","History of Severe Depression",206.35,128.44
+7,"Reason Homeless Eviction","Juvenile Detention Involvement",17.53,39.74
+7,"Reason Homeless Eviction","History of Physical Illness",43.11,29.45
+7,"Reason Homeless Eviction","Reason Homeless No Family",9.9,30.05
+7,"Reason Homeless Eviction","History of Physical Abuse",168.78,83.06
+7,"Reason Homeless Eviction","Reason Homeless Foster Care",29.03,48.33
+7,"History of Physical Illness","Reason Homeless No Family",7.34,3.17
+7,"History of Physical Illness","History of Physical Abuse",25.53,1.74
+7,"Reason Homeless Jail Prison","History of Severe Depression",5.56,3.31
+7,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",40.86,36.82
+7,"Reason Homeless Jail Prison","Juvenile Detention Involvement",0.16,3.22
+7,"Reason Homeless Jail Prison","Reason Homeless Job",8.87,8.2
+7,"Reason Homeless Jail Prison","Reason Homeless Eviction",91.58,49.83
+7,"Reason Homeless Jail Prison","History of Physical Illness",0,3.81
+7,"Reason Homeless Jail Prison","Reason Homeless No Family",3.08,1.19
+7,"Reason Homeless Jail Prison","History of Physical Abuse",56.76,4.28
+7,"Reason Homeless Jail Prison","Reason Homeless Foster Care",8.11,3.03
+7,"Reason Homeless Jail Prison","Reason Homeless Unihabitable Housing",1.08,0.68
+7,"Reason Homeless No Family","Developmental Disability",0.91,0.14
+7,"Reason Homeless No Family","Reason Homeless Substance Abuse",3.32,10.65
+7,"Reason Homeless No Family","Reason Homeless Job",12.64,9.59
+7,"Reason Homeless No Family","Reason Homeless Eviction",32.04,19.01
+7,"Reason Homeless No Family","History of Physical Illness",3.47,0.7436225
+7,"Reason Homeless No Family","Reason Homeless No Family",31.5,29.1
+7,"Reason Homeless No Family","History of Physical Abuse",7.29,1.12
+7,"Reason Homeless No Family","Reason Homeless Death in Family",4.75,1.15
+7,"Reason Homeless No Family","History of Alcohol Abuse",72.21,37.39
+7,"History of Physical Abuse","Juvenile Detention Involvement",5.95,12.69
+7,"History of Physical Abuse","Reason Homeless No Family",17.4,26.2
+7,"History of Physical Abuse","Reason Homeless Foster Care",3.8,9.31
+7,"Reason Homeless Death in Family","History of Severe Depression",2.18,0.37
+7,"Reason Homeless Death in Family","Reason Homeless Eviction",12.56,19.07
+7,"Reason Homeless Death in Family","History of Physical Illness",2.76,5.09
+7,"Reason Homeless Death in Family","Reason Homeless No Family",7.16,6.22
+7,"Reason Homeless Death in Family","History of Physical Abuse",8.2,0.51
+7,"Reason Homeless Death in Family","Reason Homeless Foster Care",4.76,0.47
+7,"Reason Homeless Foster Care","Juvenile Detention Involvement",12.99,15.65
+7,"Reason Homeless Unihabitable Housing","History of Severe Depression",13.9,11.41
+7,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",67.57,39.44
+7,"Reason Homeless Unihabitable Housing","History of Physical Illness",38.97,10.81
+7,"Reason Homeless Unihabitable Housing","Reason Homeless No Family",0.29,1.96
+7,"Reason Homeless Unihabitable Housing","History of Physical Abuse",9.18,5.15
+7,"Reason Homeless Unihabitable Housing","Reason Homeless Death in Family",0.41,2.83
+7,"History of Alcohol Abuse","History of Severe Depression",6.62,12.12
+7,"History of Alcohol Abuse","Reason Homeless Substance Abuse",113.26,51.93
+7,"History of Alcohol Abuse","Juvenile Detention Involvement",63.55,20.51
+7,"History of Alcohol Abuse","Reason Homeless Job",258.4,96.27
+7,"History of Alcohol Abuse","Reason Homeless Eviction",150.27,134.93
+7,"History of Alcohol Abuse","History of Physical Illness",16.47,42.27
+7,"History of Alcohol Abuse","Reason Homeless Jail Prison",151.23,52.71
+7,"History of Alcohol Abuse","Reason Homeless No Family",83.05,121.52
+7,"History of Alcohol Abuse","History of Physical Abuse",105.85,53.01
+7,"History of Alcohol Abuse","Reason Homeless Death in Family",76.54,27.11
+7,"History of Alcohol Abuse","Reason Homeless Foster Care",51.25,26.12
+7,"History of Alcohol Abuse","Reason Homeless Unihabitable Housing",33.53,11.9
+7,"History Drug Alcohol","Developmental Disability",8.06,11.28
+7,"History Drug Alcohol","History of Severe Depression",10.06,6.96
+7,"History Drug Alcohol","Reason Homeless Substance Abuse",14.6,50
+7,"History Drug Alcohol","Reason Homeless Domestic Violence",70.64,11.57
+7,"History Drug Alcohol","Juvenile Detention Involvement",1.78,20.14
+7,"History Drug Alcohol","Reason Homeless Job",75.45,76.43
+7,"History Drug Alcohol","Reason Homeless Eviction",100.44,188.35
+7,"History Drug Alcohol","History of Physical Illness",24.61,34.27
+7,"History Drug Alcohol","Reason Homeless Jail Prison",20.59,83.84
+7,"History Drug Alcohol","Reason Homeless No Family",107.0103,61.43
+7,"History Drug Alcohol","History of Physical Abuse",7.03,8.03
+7,"History Drug Alcohol","Reason Homeless Death in Family",5.4,15.45
+7,"History Drug Alcohol","Reason Homeless Foster Care",3.48,11.83
+7,"History Drug Alcohol","Reason Homeless Unihabitable Housing",15.79,0.25
+7,"History Drug Alcohol","History of Alcohol Abuse",143.38,668.86
+8,"Developmental Disability","Reason Homeless Substance Abuse",8.56,46.43
+8,"Developmental Disability","Reason Homeless Job",20.86,50.35
+8,"Developmental Disability","Reason Homeless Eviction",28.55,36.38
+8,"Developmental Disability","History of Physical Illness",19.91,8.54
+8,"Developmental Disability","Reason Homeless No Family",11.77,13.28
+8,"Developmental Disability","History of Alcohol Abuse",67.14,122.89
+8,"History of Severe Depression","History of Physical Illness",21.62,37.93
+8,"History of Severe Depression","Juvenile System Services",0,1.14
+8,"History of Severe Depression","Reason Homeless No Family",33.66327,59.49
+8,"History of Severe Depression","History of Physical Abuse",27.95,10.03
+8,"Reason Homeless Substance Abuse","History of Severe Depression",2.35,7.43
+8,"Reason Homeless Substance Abuse","Juvenile Detention Involvement",0.43,2.56
+8,"Reason Homeless Substance Abuse","Reason Homeless Job",100.12,60.61
+8,"Reason Homeless Substance Abuse","Reason Homeless Eviction",79.25,65.16
+8,"Reason Homeless Substance Abuse","History of Physical Illness",7.13,9.36
+8,"Reason Homeless Substance Abuse","Juvenile System Services",0,5.59
+8,"Reason Homeless Substance Abuse","Reason Homeless No Family",49.05147,26.05
+8,"Reason Homeless Substance Abuse","History of Physical Abuse",46.04,3.71
+8,"Reason Homeless Substance Abuse","Reason Homeless Unihabitable Housing",1.94,6.19
+8,"HIV Positive","Reason Homeless Job",5.24,1.19
+8,"HIV Positive","Reason Homeless Eviction",5.91,3.9
+8,"HIV Positive","Reason Homeless No Family",11.92,1.043892
+8,"HIV Positive","History of Alcohol Abuse",13.5,5.79
+8,"Juvenile Detention Involvement","Reason Homeless No Family",0.0010162,0.0001767
+8,"Reason Homeless Job","History of Severe Depression",14.52,13.87
+8,"Reason Homeless Job","Juvenile Detention Involvement",0.42,3.79
+8,"Reason Homeless Job","Reason Homeless Eviction",92.37,99.19
+8,"Reason Homeless Job","History of Physical Illness",29.82,43.25
+8,"Reason Homeless Job","Juvenile System Services",13.72,2.59
+8,"Reason Homeless Job","Reason Homeless No Family",89,66.99
+8,"Reason Homeless Job","History of Physical Abuse",53.25,13.16
+8,"Reason Homeless Job","Reason Homeless Unihabitable Housing",23.27,53.38
+8,"Reason Homeless Eviction","History of Severe Depression",179.29,162.94
+8,"Reason Homeless Eviction","Juvenile Detention Involvement",29.02,55.31
+8,"Reason Homeless Eviction","History of Physical Illness",50.19,56.2
+8,"Reason Homeless Eviction","Juvenile System Services",2.23,21.59
+8,"Reason Homeless Eviction","Reason Homeless No Family",94.63,115.2
+8,"Reason Homeless Eviction","History of Physical Abuse",236.95,120.34
+8,"History of Physical Illness","Juvenile System Services",3.32,0.25
+8,"History of Physical Illness","Reason Homeless No Family",27.03025,16.06
+8,"History of Physical Illness","History of Physical Abuse",39.49,4.78
+8,"Juvenile System Services","Reason Homeless No Family",2.33,0.08
+8,"Justice System Past Year","Reason Homeless Substance Abuse",2.54,3.6
+8,"Justice System Past Year","Reason Homeless Job",16.17,3.96
+8,"Justice System Past Year","Reason Homeless Eviction",20.66,10.16
+8,"Justice System Past Year","History of Physical Illness",1.29,0.02
+8,"Justice System Past Year","Juvenile System Services",0,10
+8,"Justice System Past Year","Reason Homeless No Family",7.59,1.09
+8,"Justice System Past Year","History of Alcohol Abuse",20.18,4.32
+8,"Reason Homeless Jail Prison","History of Severe Depression",6.8,4.87
+8,"Reason Homeless Jail Prison","Reason Homeless Substance Abuse",102.36,47.44
+8,"Reason Homeless Jail Prison","Juvenile Detention Involvement",0.2,4.37
+8,"Reason Homeless Jail Prison","Reason Homeless Job",11.8,6
+8,"Reason Homeless Jail Prison","Reason Homeless Eviction",232.74,58.56
+8,"Reason Homeless Jail Prison","History of Physical Illness",0,4.59
+8,"Reason Homeless Jail Prison","Juvenile System Services",0,0.44
+8,"Reason Homeless Jail Prison","Reason Homeless No Family",10.61,11.28
+8,"Reason Homeless Jail Prison","History of Physical Abuse",128.56,6.27
+8,"Reason Homeless Jail Prison","Reason Homeless Unihabitable Housing",1.28,1.56
+8,"Reason Homeless No Family","Developmental Disability",19.56,5.8
+8,"Reason Homeless No Family","History of Severe Depression",2.95,10.57
+8,"Reason Homeless No Family","Reason Homeless Substance Abuse",8.58,21.91
+8,"Reason Homeless No Family","Juvenile Detention Involvement",14.98,36.8
+8,"Reason Homeless No Family","Reason Homeless Job",23.87,35.87
+8,"Reason Homeless No Family","Reason Homeless Eviction",72.95,101.18
+8,"Reason Homeless No Family","History of Physical Illness",14.29,12.96
+8,"Reason Homeless No Family","Juvenile System Services",27.00919,30.94106
+8,"Reason Homeless No Family","Reason Homeless Jail Prison",0.6,2.3
+8,"Reason Homeless No Family","Reason Homeless No Family",50.08323,64.01062
+8,"Reason Homeless No Family","History of Physical Abuse",28.36,1.84
+8,"Reason Homeless No Family","History of Alcohol Abuse",92.68,90.57
+8,"History of Physical Abuse","Juvenile Detention Involvement",2.11,17.16
+8,"History of Physical Abuse","Juvenile System Services",0,1.4
+8,"History of Physical Abuse","Reason Homeless No Family",29.01,24.3
+8,"Reason Homeless Unihabitable Housing","History of Severe Depression",17.81,10.58
+8,"Reason Homeless Unihabitable Housing","Reason Homeless Eviction",85.78,43.54
+8,"Reason Homeless Unihabitable Housing","History of Physical Illness",34.42,12.72
+8,"Reason Homeless Unihabitable Housing","Juvenile System Services",0,1.51
+8,"Reason Homeless Unihabitable Housing","Reason Homeless No Family",0.2468116,4.44
+8,"Reason Homeless Unihabitable Housing","History of Physical Abuse",15,2.34
+8,"History of Alcohol Abuse","History of Severe Depression",7.3,31.89
+8,"History of Alcohol Abuse","Reason Homeless Substance Abuse",136.23,72.92
+8,"History of Alcohol Abuse","Juvenile Detention Involvement",75.67,26.71
+8,"History of Alcohol Abuse","Reason Homeless Job",260.54,114.83
+8,"History of Alcohol Abuse","Reason Homeless Eviction",175.74,171.64
+8,"History of Alcohol Abuse","History of Physical Illness",16.32,67.23
+8,"History of Alcohol Abuse","Juvenile System Services",9.13,58.65
+8,"History of Alcohol Abuse","Reason Homeless Jail Prison",174.18,106.35
+8,"History of Alcohol Abuse","Reason Homeless No Family",217.64,221.47
+8,"History of Alcohol Abuse","History of Physical Abuse",163.79,49.69
+8,"History of Alcohol Abuse","Reason Homeless Unihabitable Housing",139.18,13.39
+8,"History Drug Alcohol","Developmental Disability",18.37,28.39
+8,"History Drug Alcohol","History of Severe Depression",13.86,41.27
+8,"History Drug Alcohol","Reason Homeless Substance Abuse",28.41,46.86
+8,"History Drug Alcohol","HIV Positive",95.33,43.11
+8,"History Drug Alcohol","Juvenile Detention Involvement",5.5,26.71
+8,"History Drug Alcohol","Reason Homeless Job",108.41,99.15
+8,"History Drug Alcohol","Reason Homeless Eviction",135.14,234.74
+8,"History Drug Alcohol","History of Physical Illness",40.59,45.97
+8,"History Drug Alcohol","Juvenile System Services",52.55,53.01
+8,"History Drug Alcohol","Justice System Past Year",50.96,72.12
+8,"History Drug Alcohol","Reason Homeless Jail Prison",27,97
+8,"History Drug Alcohol","Reason Homeless No Family",186.05,128.91
+8,"History Drug Alcohol","History of Physical Abuse",13.53,20.37
+8,"History Drug Alcohol","Reason Homeless Unihabitable Housing",23.42,0.39
+8,"History Drug Alcohol","History of Alcohol Abuse",210.02,567.36

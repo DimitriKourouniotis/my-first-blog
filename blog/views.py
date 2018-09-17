@@ -46,3 +46,6 @@ def indexDemo(request):
 
 def indexDemoDemo(request):
     return render(request, 'blog/demo/indexDemoDemo.html', {})
+
+def D3_Demo_HMIS(request):
+    return render(request, 'blog/HMIS/D3_Demo_HMIS.html', {})
